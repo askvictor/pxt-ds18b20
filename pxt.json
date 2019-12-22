@@ -4,8 +4,7 @@
     "description": "DFRobot pxt-ds18b20,read temperature by ds18b20",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
